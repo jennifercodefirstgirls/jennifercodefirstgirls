@@ -1,0 +1,42 @@
+header {
+	text-align: center;
+	background-size: cover;
+	background-color: black;
+	color: white;
+	font-family: Times New Roman;
+}
+
+body {
+	background: #FFF url("http://i.imgur.com/WKj6hvZ.jpg");
+	background-size: 100%;
+	background-position: center;
+}
+
+ul {
+	padding: 10px;
+	background: white;
+}
+
+li {
+	display: inline;
+}
+
+.menu {
+	background: white;
+}
+
+.menu li a{
+	color: black;
+	padding: 10px 20px 30px 40px;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+h1 {
+	margin: 40 0 0 0px;
+}
+
+img {
+	border-radius: 10px;
+}
