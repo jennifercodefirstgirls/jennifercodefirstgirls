@@ -5,7 +5,7 @@ header {
 	padding-top: 0px;
 	padding-bottom: 1px;
 	color: white;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Roboto Condensed', helvetica, sans-serif;
 	opacity: 0.7;
     filter: alpha(opacity=70); /* For IE8 and earlier */
 }
@@ -48,7 +48,7 @@ body {
 	margin-top:-0.5em;
 	text-align:center;
 	color:black;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Roboto Condensed', helvetica, sans-serif;
 	font-weight: bold;
     font-size:1.2em;
     text-decoration:none;
@@ -79,7 +79,7 @@ li {
 	text-align: center;
 	color: black;
 	padding: 0px 70px 0px 70px;
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: 'Roboto Condensed', helvetica, sans-serif;
 	text-transform: uppercase;
 	text-decoration: none;
 	position: center;
